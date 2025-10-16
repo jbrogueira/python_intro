@@ -1,4 +1,4 @@
-name: advanced_topics_macro__2025
+name: python_intro 
 channels:
   - conda-forge
 dependencies:
@@ -10,11 +10,5 @@ dependencies:
   - sympy
   - pip
   - pip:
-    - quantecon
-    - jax[cpu]
-    - keras
-    - fortran-magic
     - nbconvert
-    - optax
     - jupytext
-    - rich
