@@ -22,6 +22,9 @@ If you have questions, suggestions, or find an issue, feel free to reach out or 
 
 This repository includes the following notebooks:
 
+0. **Getting Started: What is Python, Setup & Git/GitHub**  
+   How it’s used, how scripts and notebooks differ, and how Python executes code. Installing Python/Miniconda, setting up Jupyter, running scripts and notebooks, basic command-line workflow, Git fundamentals (clone, commit, push), and using GitHub to share work.
+
 1. **Python Essentials**  
    *Assignment statements, data types, and operators*  
    Learn how to declare variables, work with different data types (strings, numbers, booleans, etc.), and use basic operators to manipulate data.
