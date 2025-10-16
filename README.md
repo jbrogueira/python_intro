@@ -54,9 +54,7 @@ You can open and run the notebooks directly in your browser using one of these p
 - [Google Colab](https://colab.research.google.com/)
 - [Binder](https://mybinder.org/)
 
- [**Open in Binder**](https://mybinder.org/v2/gh/YOUR_USERNAME/YOUR_REPO/main)
-
-*(Replace `YOUR_USERNAME` and `YOUR_REPO` with your GitHub details.)*
+ [**Open in Binder**](https://mybinder.org/v2/gh/jbrogueira/python_intro.git/main)
 
 ### Option 2 — Run Locally (with Conda)
 
