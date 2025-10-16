@@ -1,1 +1,40 @@
+# Temporary: Ignore Jupyter notebooks during development
+
+# Python cache and Jupyter checkpoints
+__pycache__/
 .ipynb_checkpoints/
+.virtual_documents/
+
+# Minted
+_minted
+
+## Core latex/pdflatex auxiliary files:
+*.aux
+*.nav
+*.snm
+*.vrb
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+
+
+## Bibliography auxiliary files (bibtex/biblatex/biber):
+*.bbl
+*.bbl-SAVE-ERROR
+*.bcf
+*.bcf-SAVE-ERROR
+*.blg
+*-blx.aux
+*-blx.bib
+
+## Build tool auxiliary files:
+*.fdb_latexmk
+*.synctex
+*.synctex(busy)
+*.synctex.gz
+*.synctex.gz(busy)
+*.pdfsync
